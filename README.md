@@ -8,7 +8,7 @@
 🤖 Open to collaborating on projects involving AI agents,automation,or Python/C programming  
 📬 Reach me at: [pranavparalkar1@gmail.com](mailto:pranavparalkar1@gmail.com)
 
-# 🚀 Languages
+## 🚀 Languages
 
 <a href="https://www.python.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
@@ -37,3 +37,7 @@
 <a href="https://www.cursor.so/" target="_blank">
   <img src="https://freeappsai.com/wp-content/uploads/2024/04/Cursor-1-768x512.png" alt="Cursor AI" width="40" />
 </a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.prod.website-files.com/6064b31ff49a2d31e0493af1/66a47686d17c50595ab25075_AD_4nXef8kg1j8Ne3QwQ5VMAVaubMxxFEPvv4gFeYFtVv3S9OQtr9DUgSicnoU2ONDCCwi0wdX7z9So0gE1lLnsvAfzDtGfXYLhsJaLdSCiQU6MEoi0Wapsol5RWbNKBB6hQnIgqtzJ2-zWKrJQMUb2IocBFxK1_.png" alt="PostgreSQL" width="40" />
+</a>
+
