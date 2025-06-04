@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @PranavCodes1
-- 👀 I’m interested in coding,learning & working on projects.
-- 🌱 I’m currently learning about AI agents.
-- 💞️ I’m looking to collaborate on projects based on AI agents and also python / C programming.
-- 📫 How to reach me- you can connect with me through gmail- pranavparalkar1@gmail.com
-- 😄 Pronouns-He/Him.
+# Hi there, I'm Pranav Paralkar👋
 
-<!---
-PranavCodes1/PranavCodes1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Pursuing B.Sc. in Computer Science (BCS)  
+🚀 Passionate about coding,learning,AI,Agentic AI,and software development  
+💻 Learned C,Python,DBMS,with basic knowledge of HTML/CSS  
+🛠️ Previously built AI agents using CrewAI  
+📚 Currently learning Agentic AI and how to build an MCP server  
+🤖 Open to collaborating on projects involving AI agents, automation, or Python/C programming  
+📬 Reach me at: [pranavparalkar1@gmail.com](mailto:pranavparalkar1@gmail.com)
