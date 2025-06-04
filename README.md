@@ -31,7 +31,7 @@
 <a href="https://gemini.google.com/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Gemini" width="40" />
 </a>
-<a href="https://github.com/joaomdmoura/crewAI" target="_blank">
+<a href="https://www.crewai.com/" target="_blank">
   <img src="https://freeappsai.com/wp-content/uploads/2024/12/CrewAI-768x512.png" alt="CrewAI" width="40" />
 </a>
 <a href="https://www.cursor.so/" target="_blank">
